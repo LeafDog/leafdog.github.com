@@ -1,5 +1,8 @@
 body{
     text-align: center;
+    background: black;
+    color: whitesmoke;
+    font-family:Helvetica, '微软雅黑' ,serif;
 }
 .container {
     width: 220px;
